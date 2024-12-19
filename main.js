@@ -1,4 +1,5 @@
-import * as THREE from "three";
+import * as THREE from 'https://cdn.skypack.dev/three@0.152.0';
+
 
 // Scene setup
 const scene = new THREE.Scene();
